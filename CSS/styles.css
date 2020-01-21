@@ -17,7 +17,7 @@ h3{
 }
 p{
   color: #8f8f8f;
-}  
+}
 .container-fluid{
   padding: 3% 15%;
 }
@@ -69,4 +69,12 @@ p{
 
 .custom-icon:hover{
   color: #ff4c68;
+}
+
+/* Testimonials Section */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
 }
