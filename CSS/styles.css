@@ -11,6 +11,13 @@ h1{
   font-weight: bold;
   line-height: 1.5;
 }
+
+h2{
+  /* font-family: 'Righteous', cursive; */
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 3rem;
+}
+
 h3{
   font-family: 'Archivo Black';
   font-size: 1.5rem;
@@ -77,4 +84,22 @@ p{
   text-align: center;
   background-color: #ef8172;
   color: #fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+/* Press Section */
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
 }
